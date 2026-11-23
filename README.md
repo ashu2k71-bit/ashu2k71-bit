@@ -32,5 +32,5 @@ Git workflows, GitHub collaboration, REST API interaction and Markdown documenta
 ## Connect With Me
 
 - GitHub: https://github.com/ashu2k71-bit
-- LinkedIn: Coming soon
+- LinkedIn: https://www.linkedin.com/in/ashwani-singh-100958451/
 - Email: ashu2k71@gmail.com
