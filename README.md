@@ -18,6 +18,13 @@
 
 ## Featured Projects
 
+### [DeveloperPortfolio — CSE103 Capstone](https://github.com/ashu2k71-bit/DeveloperPortfolio)
+
+Linux documentation, Bash automation, REST API analysis and a professional portfolio.
+
+[View live portfolio](https://ashu2k71-bit.github.io/DeveloperPortfolio/)
+
+
 ### [CSE103 Lab — LAB 3](https://github.com/ashu2k71-bit/cse103-lab-LAB3)
 
 Git workflows, GitHub collaboration, REST API interaction and Markdown documentation.
